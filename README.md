@@ -37,7 +37,7 @@ API mặc định chạy tại `http://127.0.0.1:5000`.
 | GET | `/` | Trả thông báo API đang hoạt động dưới dạng JSON. |
 | GET | `/is-prime?n=97` | Kiểm tra số nguyên và trả đầu vào, kết quả đúng/sai cùng thời gian xử lý thuật toán tính bằng mili giây. |
 
-Ví dụ phản hồi thành công:
+phản hồi thành công:
 
 ```json
 {
