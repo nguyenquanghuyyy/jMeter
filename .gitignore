@@ -1,0 +1,20 @@
+Python virtual environment
+
+.venv/
+.venv-1/
+venv/
+
+Python cache
+
+pycache/
+*.py[cod]
+
+JMeter test results
+
+jmeter/results/
+jmeter/.jtl
+jmeter/.log
+
+Environment variables and secrets
+
+.env
